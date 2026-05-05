@@ -115,4 +115,6 @@ Seu navegador não suporta vídeos.
 <p><code>&lt;button&gt;</code> — botão clicável:</p>
 <pre><code>  &lt;button onclick="salvar()"&gt;Salvar&lt;/button&gt;
 </code></pre>
+<h1 id="o-que-é-css">O que é CSS?</h1>
+<p>CSS (Cascading Style Sheets) é a linguagem utilizada para estilizar páginas web, controlando cores, fontes, espaçamentos, layouts e a aparência geral dos elementos HTML.</p>
 
