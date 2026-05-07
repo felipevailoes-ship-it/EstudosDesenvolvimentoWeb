@@ -3,6 +3,7 @@
 
 ---
 
+<h2 id="estudante-felipe-inácio-fussieger-vailões">Estudante: Felipe Inácio Fussieger Vailões</h2>
 <h1 id="cheats-para-desenvolvimento-web-—-html-css-e-javascript">Cheats para desenvolvimento Web — HTML, CSS e JavaScript</h1>
 <blockquote>
 <p>Documento de referência rápida com os principais conceitos, sintaxes e boas práticas de desenvolvimento web.</p>
